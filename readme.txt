@@ -4,7 +4,7 @@ pip install gradio requests pypdf python-docx
 pip install gradio requests pypdf python-docx rank-bm25
 pip install gradio requests pypdf python-docx ddgs beautifulsoup4
 pip install duckduckgo-search
-export DEEPSEEK_API_KEY="sk-e2dc0f59302e4aa293669cfbd67e9b89"
+export DEEPSEEK_API_KEY=""
 python RLM.py
 MAX_FILE_MB=500 MAX_TOTAL_CHARS=50000000 python RLM.py
 ++++++++++++++++++++++++++++++ENV activations+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -43,4 +43,4 @@ Answer + citations + trace
 
 ++++++++++++++++++++++++++++++api+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-export DEEPSEEK_API_KEY="sk-e2dc0f59302e4aa293669cfbd67e9b89"
+export DEEPSEEK_API_KEY=""
