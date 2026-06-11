@@ -1,4 +1,4 @@
-# 📌 XAI
+# 📌 RLM
 
 ## Indepedent Indie Research Project
 
