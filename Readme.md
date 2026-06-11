@@ -1,8 +1,8 @@
 # 📌 XAI
 
-## 🎓 Final Year Project
+## Indepedent Indie Research Project
 
-This project was developed as part of my undergraduate third year final projectdegree at Brunel University London.
+This project was developed as part of my indie sesearch in guidance under professor Professor Tatiana Kalganova at Brunel University London.
 
 ---
 
