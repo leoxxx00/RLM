@@ -8,7 +8,7 @@ U Need Permissin to Use this Project from the Original Aurthor Htet Paing Aung @
 ---
 
 ## 📖 Project Description
-RLM: Recurrent Language Model paper replicating with 
+ARLM: Adaptive Recursive Language Model.
 
 ---
 
